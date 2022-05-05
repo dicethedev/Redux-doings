@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Packages installed for this project
+
+npm add redux react-redux react-router-dom styled-components evergreen-ui axios
+
+Make use of fake json-server in {{reqres.in}}
+
+npm
+
 ### `npm start`
 
 Runs the app in the development mode.\
